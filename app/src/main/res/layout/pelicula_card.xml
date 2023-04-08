@@ -38,8 +38,8 @@
 
         <TextView
             android:id="@+id/tvReview"
-            android:layout_width="344dp"
-            android:layout_height="182dp"
+            android:layout_width="301dp"
+            android:layout_height="186dp"
             android:layout_marginTop="8dp"
             android:text="Review"
             app:layout_constraintEnd_toEndOf="parent"
